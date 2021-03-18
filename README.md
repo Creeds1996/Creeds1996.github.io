@@ -1,5 +1,5 @@
 # Welcome to my site!
-_This_ word is italic.
+_This is italic_.
 
 * # Heading 1
 * ## Heading 2
